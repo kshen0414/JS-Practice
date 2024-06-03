@@ -11,3 +11,9 @@ In future can try some interesting recursion problems :
 3)Print the numbers of 1..10 in ascending order
 
 4)Print the numbers of 10..1 in descending order
+
+
+-------------------------------------------------------
+Regular function vs Arrow function
+
+https://dmitripavlutin.com/differences-between-arrow-and-regular-functions/
