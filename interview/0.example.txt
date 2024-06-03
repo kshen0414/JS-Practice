@@ -1,1 +1,13 @@
 https://www.keka.com/javascript-coding-interview-questions-and-answers
+
+
+
+In future can try some interesting recursion problems :
+
+1)Calculate the sum of numbers from 1..10
+
+2)Show the factorial of 5
+
+3)Print the numbers of 1..10 in ascending order
+
+4)Print the numbers of 10..1 in descending order
