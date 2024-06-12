@@ -9,6 +9,7 @@
 
 // more documentation about using array.flat()
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat
+// to flatten an array, means to convert a multi-dimensional array into a single dimenstional array 
 
 var arr = [1,2,3,[2,999,0],[899,[3,4,1000]],8];
 
