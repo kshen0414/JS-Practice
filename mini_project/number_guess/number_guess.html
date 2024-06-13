@@ -13,18 +13,20 @@
     <h2>Hello</h2>
     <script>
         var target = 89;
-
+        // var input = prompt("Enter a number");
         while (input != target) {
+            // note that prompt gives us a prompt window ?
+            // how to show different prompt? but still contain a while loop
             var input = prompt("Enter a number");
-            if (target == prompt) {
+            if (target == input) {
                 document.writeln("<p>Congrats you guessed the number!</p>");
             }
 
-            else if (prompt < target) {
+            else if (prompt < input) {
                 document.writeln("<p>Please guess again, too small</p>!");
             }
 
-            else if (prompt > target) {
+            else if (prompt > input) {
                 document.writeln("<p>Please guess again, too big</p>");
             }
         }
